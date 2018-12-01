@@ -867,5 +867,16 @@
 		"artistName": "善牧良言",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/yp20181125/yp/yp181125.mp3",
 		"id": 39181125
+	},
+	{
+		"time": "20181202",
+		"title": "顺服（中）",
+		"downUrl": "http://txly2.net/ly/audio/2018/yp/yp181202.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 39,
+		"artistName": "善牧良言",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/yp20181202/yp/yp181202.mp3",
+		"id": 39181202
 	}
 ]
