@@ -1780,5 +1780,16 @@
 		"artistName": "天路导向",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/wa20181201/wa/wa181201.mp3",
 		"id": 55181201
+	},
+	{
+		"time": "20181202",
+		"title": "献身之福（12）Blessings Of Surrender (12)",
+		"downUrl": "http://txly2.net/ly/audio/2018/wa/wa181202.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 55,
+		"artistName": "天路导向",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/wa20181202/wa/wa181202.mp3",
+		"id": 55181202
 	}
 ]
