@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180901",
-		"title": "义人的脚步（诗37:18-29）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180901.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201835/mw20180901/mw/mw180901.mp3",
-		"id": 30180901
-	},
-	{
 		"time": "20180902",
 		"title": "在试炼中镇静（赛43:1-7）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180902.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/mw20181201/mw/mw181201.mp3",
 		"id": 30181201
+	},
+	{
+		"time": "20181202",
+		"title": "更加与主接近（创39:19-23）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181202.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/mw20181202/mw/mw181202.mp3",
+		"id": 30181202
 	}
 ]
