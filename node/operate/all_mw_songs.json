@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180902",
-		"title": "在试炼中镇静（赛43:1-7）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180902.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/mw20180902/mw/mw180902.mp3",
-		"id": 30180902
-	},
-	{
 		"time": "20180903",
 		"title": "昼夜歌唱（代上9:28-34）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180903.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/mw20181202/mw/mw181202.mp3",
 		"id": 30181202
+	},
+	{
+		"time": "20181203",
+		"title": "“丢弃”与“得着”（腓3:4-14）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181203.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/mw20181203/mw/mw181203.mp3",
+		"id": 30181203
 	}
 ]
