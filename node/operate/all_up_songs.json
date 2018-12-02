@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180824",
-		"title": "教导儿女智财教育：第五课、回馈社会（下）每个家庭可以做的事",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180824.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/up20180824/up/up180824.mp3",
-		"id": 20180824
-	},
-	{
 		"time": "20180903",
 		"title": "亲情厨房：水果传（9）玫瑰蜜葡萄；与父母促膝谈：有威严的沃尔克先生",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180903.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/up20181130/up/up181130.mp3",
 		"id": 20181130
+	},
+	{
+		"time": "20181203",
+		"title": "情绪与真理（26）神话语的能力（5）（讲员：傅立德牧师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181203.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/up20181203/up/up181203.mp3",
+		"id": 20181203
 	}
 ]
