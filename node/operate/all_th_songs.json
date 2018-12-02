@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180902",
-		"title": "流亡返归（4）（尼7:46-60）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180902.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/th20180902/th/th180902.mp3",
-		"id": 32180902
-	},
-	{
 		"time": "20180903",
 		"title": "以撒娶利百加为妻（8）（创24:61-67）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180903.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/th20181202/th/th181202.mp3",
 		"id": 32181202
+	},
+	{
+		"time": "20181203",
+		"title": "以扫的后裔（1）（创36:1-8）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181203.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/th20181203/th/th181203.mp3",
+		"id": 32181203
 	}
 ]
