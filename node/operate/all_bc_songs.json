@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180824",
-		"title": "黑暗中的舞者：第十九章、回到天堂",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180824.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201834/bc20180824/bc/bc180824.mp3",
-		"id": 10180824
-	},
-	{
 		"time": "20180903",
 		"title": "信心日引：不为每日所需忧虑（太6:25）；大阅读家：第十三章、 一次读一本书-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180903.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201848/bc20181130/bc/bc181130.mp3",
 		"id": 10181130
+	},
+	{
+		"time": "20181203",
+		"title": "信心日引：在日常所需上信赖神（太6:25）；做基督的管家：第一章、我们是基督的管家-3",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181203.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/bc20181203/bc/bc181203.mp3",
+		"id": 10181203
 	}
 ]
