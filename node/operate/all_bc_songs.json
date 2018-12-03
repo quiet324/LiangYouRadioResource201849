@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180903",
-		"title": "信心日引：不为每日所需忧虑（太6:25）；大阅读家：第十三章、 一次读一本书-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180903.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/bc20180903/bc/bc180903.mp3",
-		"id": 10180903
-	},
-	{
 		"time": "20180904",
 		"title": "信心日引：神是美善（诗118:1）；大阅读家：第十三章、 一次读一本书-2",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180904.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/bc20181203/bc/bc181203.mp3",
 		"id": 10181203
+	},
+	{
+		"time": "20181204",
+		"title": "信心日引：求告主（诗篇118:5）；做基督的管家：第二章、管家是怎样的一个人-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181204.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/bc20181204/bc/bc181204.mp3",
+		"id": 10181204
 	}
 ]
