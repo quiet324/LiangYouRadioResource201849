@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180903",
-		"title": "亲情厨房：水果传（9）玫瑰蜜葡萄；与父母促膝谈：有威严的沃尔克先生",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180903.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/up20180903/up/up180903.mp3",
-		"id": 20180903
-	},
-	{
 		"time": "20180904",
 		"title": "亲情儿童房：快乐教养实践77招儿──避免说教；与父母促膝谈：爱和训诲",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180904.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/up20181203/up/up181203.mp3",
 		"id": 20181203
+	},
+	{
+		"time": "20181204",
+		"title": "情绪与真理（27）神话语的能力（6）（讲员：傅立德牧师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181204.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/up20181204/up/up181204.mp3",
+		"id": 20181204
 	}
 ]
