@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180903",
-		"title": "交友恋爱婚姻：管教儿女",
-		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180903.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/pb20180903/pb/pb180903.mp3",
-		"id": 44180903
-	},
-	{
 		"time": "20180904",
 		"title": "交友恋爱婚姻：处理冲突",
 		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180904.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/pb20181203/pb/pb181203.mp3",
 		"id": 44181203
+	},
+	{
+		"time": "20181204",
+		"title": "圣经都是有益的：信徒对圣经应有的态度",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb181204.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/pb20181204/pb/pb181204.mp3",
+		"id": 44181204
 	}
 ]
