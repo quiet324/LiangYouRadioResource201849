@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180904",
-		"title": "教牧新视野：以家庭教育为主体的基督教教育（下）（主持：姚谦、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180904.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/ds20180904/ds/ds180904.mp3",
-		"id": 46180904
-	},
-	{
 		"time": "20180905",
 		"title": "晨曦交流站：卢文牧师和文惠与你探讨听众所关注的教会问题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180905.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/ds20181204/ds/ds181204.mp3",
 		"id": 46181204
+	},
+	{
+		"time": "20181205",
+		"title": "晨曦交流站：卢文牧师和林诚牧师与你探讨听众所关注的教会问题",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181205.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/ds20181205/ds/ds181205.mp3",
+		"id": 46181205
 	}
 ]
