@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180905",
-		"title": "音乐咕咕钟：眼光",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180905.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/pc20180905/pc/pc180905.mp3",
-		"id": 17180905
-	},
-	{
 		"time": "20180906",
 		"title": "巨人的秘密：南北朝孝子潘综",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180906.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/pc20181205/pc/pc181205.mp3",
 		"id": 17181205
+	},
+	{
+		"time": "20181206",
+		"title": "巨人的秘密：唐朝军事家李靖（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181206.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/pc20181206/pc/pc181206.mp3",
+		"id": 17181206
 	}
 ]
