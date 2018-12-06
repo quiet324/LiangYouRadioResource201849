@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180906",
-		"title": "灵命进深系列：灵命概说",
-		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180906.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/pb20180906/pb/pb180906.mp3",
-		"id": 44180906
-	},
-	{
 		"time": "20180907",
 		"title": "灵命进深系列：十字架的工作",
 		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180907.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/pb20181206/pb/pb181206.mp3",
 		"id": 44181206
+	},
+	{
+		"time": "20181207",
+		"title": "怎样作传道人：传道人的呼召",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb181207.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/pb20181207/pb/pb181207.mp3",
+		"id": 44181207
 	}
 ]
