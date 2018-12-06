@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180906",
-		"title": "福音自由——加拉太书（5）加拉太书1:6-10（讲员：李重恩）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be180906.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/be20180906/be/be180906.mp3",
-		"id": 36180906
-	},
-	{
 		"time": "20180907",
 		"title": "福音自由——加拉太书（6）加拉太书1:8-10（讲员：李重恩）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be180907.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/be20181206/be/be181206.mp3",
 		"id": 36181206
+	},
+	{
+		"time": "20181207",
+		"title": "爱心书柬——约翰书信（9）住在神的光中（约壹1:5-2:2）（讲员：李重恩）",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be181207.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/be20181207/be/be181207.mp3",
+		"id": 36181207
 	}
 ]
