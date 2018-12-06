@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180906",
-		"title": "信心日引：信心带来自由（加2:16）；大阅读家：第十四章、培养读书人-2",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180906.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/bc20180906/bc/bc180906.mp3",
-		"id": 10180906
-	},
-	{
 		"time": "20180907",
 		"title": "黑暗中的舞者：第二十章、最后的富士菊-2；第二十一章、完美的真相",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180907.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/bc20181206/bc/bc181206.mp3",
 		"id": 10181206
+	},
+	{
+		"time": "20181207",
+		"title": "彩虹花园：第十二章、花园活过来了-2；第十三章、你没有为我而做-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181207.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/bc20181207/bc/bc181207.mp3",
+		"id": 10181207
 	}
 ]
