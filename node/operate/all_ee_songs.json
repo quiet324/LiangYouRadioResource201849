@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180906",
-		"title": "智慧语录：如何发挥你的领导力？拥抱小语：吃得开，决定人生的广度；稳得住，决定人生的高度；说个故事给你听：我的第二位基督徒朋友",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180906.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/ee20180906/ee/ee180906.mp3",
-		"id": 29180906
-	},
-	{
 		"time": "20180907",
 		"title": "智慧语录：靠谱，是对一个人的最高级评价；亮丽人生不是梦：过犹不及——界限的范例",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180907.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/ee20181206/ee/ee181206.mp3",
 		"id": 29181206
+	},
+	{
+		"time": "20181207",
+		"title": "圣诞特辑：为何是我──一代人一代歌：祭灶日赎身；当人生不再是A+",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181207.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/ee20181207/ee/ee181207.mp3",
+		"id": 29181207
 	}
 ]
