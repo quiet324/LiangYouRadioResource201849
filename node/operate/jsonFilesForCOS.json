@@ -35233,5 +35233,8 @@
 	},
 	{
 		"fileName": "../operate/all_ir20181208_songs.json"
+	},
+	{
+		"fileName": "../operate/all_cc20181208_songs.json"
 	}
 ]
