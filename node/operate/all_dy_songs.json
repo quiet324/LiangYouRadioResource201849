@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180906",
-		"title": "好得无比，每一天：大卫遵行了神的旨意（徒13:36）；开学周特辑（4）如何与初三、高一的孩子沟通？实践小课堂：如何对孩子进行选择性引导？我爱背金句：提后2:15",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180906.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/dy20180906/dy/dy180906.mp3",
-		"id": 24180906
-	},
-	{
 		"time": "20180907",
 		"title": "好得无比，每一天：天堂之问（启21:1）；开学周特辑（5）如何与高二、高三孩子沟通？实践小课堂：如何培养孩子的“同理心”？我爱背金句：提后2:15",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180907.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/dy20181206/dy/dy181206.mp3",
 		"id": 24181206
+	},
+	{
+		"time": "20181207",
+		"title": "好得无比，每一天：用理智到上帝跟前来（诗71:14）；马太福音说书（20）；我爱背金句：太28:19-20（热线时间）",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181207.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/dy20181207/dy/dy181207.mp3",
+		"id": 24181207
 	}
 ]
