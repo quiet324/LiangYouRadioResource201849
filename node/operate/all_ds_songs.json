@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180907",
-		"title": "从布道到培训：神的救赎计划与大使命（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180907.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201836/ds20180907/ds/ds180907.mp3",
-		"id": 46180907
-	},
-	{
 		"time": "20180908",
 		"title": "从布道到培训：神用的工人（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180908.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/ds20181207/ds/ds181207.mp3",
 		"id": 46181207
+	},
+	{
+		"time": "20181208",
+		"title": "从布道到培训：实际生活的圣洁（主持：卢文、杨天成）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181208.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201849/ds20181208/ds/ds181208.mp3",
+		"id": 46181208
 	}
 ]
